@@ -147,6 +147,9 @@ A = [1 2]    B = [2 0]    C = [1 1]
     -4    -2
      3    -1
 ```
+
+<img width="1024" height="657" alt="image" src="https://github.com/user-attachments/assets/169118af-17ef-4c7f-b185-48431f4ad9a3" />
+
 <img width="252" height="156" alt="image" src="https://github.com/user-attachments/assets/bdb3c38d-4a7a-4c2d-95e4-0775ec54c136" />
 
 
